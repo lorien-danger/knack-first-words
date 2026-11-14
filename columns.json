@@ -1,0 +1,64 @@
+{
+ "name": "First words",
+ "item": "word",
+ "practices": [
+  {
+   "name": "Read it",
+   "show": [
+    "word"
+   ],
+   "ask": "picture",
+   "mark": "self"
+  }
+ ],
+ "scope": [
+  "word",
+  "letters",
+  "first letter",
+  "last letter",
+  "length",
+  "shape",
+  "sounds",
+  "group"
+ ],
+ "columns": [
+  {
+   "name": "word",
+   "type": "text",
+   "font": "reading"
+  },
+  {
+   "name": "picture",
+   "type": "plain",
+   "media": "image"
+  },
+  {
+   "name": "sounds",
+   "type": "text"
+  },
+  {
+   "name": "letters",
+   "type": "parts"
+  },
+  {
+   "name": "first letter",
+   "type": "plain"
+  },
+  {
+   "name": "last letter",
+   "type": "plain"
+  },
+  {
+   "name": "length",
+   "type": "number"
+  },
+  {
+   "name": "shape",
+   "type": "text"
+  },
+  {
+   "name": "group",
+   "type": "plain"
+  }
+ ]
+}
