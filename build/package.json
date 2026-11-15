@@ -1,0 +1,7 @@
+{
+  "name": "knack-first-words-build",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "tsx build.ts", "publish-dataset": "tsx publish.ts" },
+  "dependencies": { "sharp": "0.34.5", "tsx": "4.20.6" }
+}

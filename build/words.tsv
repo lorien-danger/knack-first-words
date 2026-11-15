@@ -1,0 +1,175 @@
+cat	Cat	animal
+dog	Dog	animal
+pig	Pig	animal
+cow	Cow	animal
+hen	Chicken	animal
+fox	Fox	animal
+bee	Honeybee	animal
+ant	Ant	animal
+bat	Bat	animal
+owl	Owl	animal
+rat	Rat	animal
+bug	Bug	animal
+ram	Ram	animal
+duck	Duck	animal
+fish	Fish	animal
+frog	Frog	animal
+crab	Crab	animal
+bird	Bird	animal
+bear	Bear	animal
+lion	Lion	animal
+goat	Goat	animal
+deer	Deer	animal
+seal	Seal	animal
+wolf	Wolf	animal
+mouse	Mouse	animal
+horse	Horse	animal
+sheep	Ewe	animal
+snake	Snake	animal
+snail	Snail	animal
+whale	Spouting whale	animal
+shark	Shark	animal
+zebra	Zebra	animal
+tiger	Tiger	animal
+koala	Koala	animal
+monkey	Monkey	animal
+rabbit	Rabbit	animal
+turtle	Turtle	animal
+spider	Spider	animal
+camel	Two-hump camel	animal
+panda	Panda	animal
+llama	Llama	animal
+giraffe	Giraffe	animal
+octopus	Octopus	animal
+penguin	Penguin	animal
+kangaroo	Kangaroo	animal
+elephant	Elephant	animal
+dinosaur	Sauropod	animal
+unicorn	Unicorn	animal
+egg	Egg	food
+pie	Pie	food
+nut	Peanuts	food
+pea	Pea pod	food
+apple	Red apple	food
+pear	Pear	food
+corn	Ear of corn	food
+cake	Birthday cake	food
+milk	Glass of milk	food
+rice	Cooked rice	food
+bread	Bread	food
+pizza	Pizza	food
+lemon	Lemon	food
+grapes	Grapes	food
+melon	Melon	food
+peach	Peach	food
+cheese	Cheese wedge	food
+carrot	Carrot	food
+banana	Banana	food
+cookie	Cookie	food
+cherry	Cherries	food
+orange	Tangerine	food
+potato	Potato	food
+tomato	Tomato	food
+lolly	Lollipop	food
+honey	Honey pot	food
+taco	Taco	food
+chips	French fries	food
+sun	Sun	nature
+moon	Crescent moon	nature
+star	Star	nature
+rain	Cloud with rain	nature
+snow	Snowflake	nature
+tree	Deciduous tree	nature
+leaf	Leaf fluttering in wind	nature
+rock	Rock	nature
+fire	Fire	nature
+sea	Water wave	nature
+log	Wood	nature
+cloud	Cloud	nature
+flower	Hibiscus	nature
+rainbow	Rainbow	nature
+car	Automobile	vehicle
+bus	Bus	vehicle
+van	Minibus	vehicle
+cab	Taxi	vehicle
+jet	Airplane	vehicle
+ship	Ship	vehicle
+boat	Sailboat	vehicle
+bike	Bicycle	vehicle
+train	Locomotive	vehicle
+truck	Delivery truck	vehicle
+rocket	Rocket	vehicle
+tractor	Tractor	vehicle
+hat	Top hat	clothes
+cap	Billed cap	clothes
+sock	Socks	clothes
+shoe	Running shoe	clothes
+boot	Womans boot	clothes
+coat	Coat	clothes
+dress	Dress	clothes
+bag	Backpack	clothes
+ring	Ring	clothes
+crown	Crown	clothes
+ball	Soccer ball	toy
+kite	Kite	toy
+doll	Nesting dolls	toy
+drum	Drum	toy
+teddy	Teddy bear	toy
+balloon	Balloon	toy
+bell	Bell	thing
+box	Package	thing
+cup	Teacup without handle	thing
+pot	Pot of food	thing
+pan	Cooking	thing
+mug	Hot beverage	thing
+key	Key	thing
+bed	Bed	thing
+bath	Bathtub	thing
+door	Door	thing
+book	Closed book	thing
+pen	Pen	thing
+map	World map	thing
+fan	Folding hand fan	thing
+gift	Wrapped gift	thing
+clock	Alarm clock	thing
+chair	Chair	thing
+house	House	thing
+phone	Mobile phone	thing
+brush	Toothbrush	thing
+tent	Tent	thing
+bin	Wastebasket	thing
+saw	Carpentry saw	thing
+web	Spider web	thing
+net	Goal net	thing
+pin	Pushpin	thing
+eye	Eye	body
+ear	Ear	body
+nose	Nose	body
+lips	Mouth	body
+hand	Raised hand	body
+foot	Foot	body
+leg	Leg	body
+tooth	Tooth	body
+baby	Baby	people
+boy	Boy	people
+girl	Girl	people
+mum	Woman	people
+dad	Man	people
+king	Prince	people
+queen	Princess	people
+red	Red circle	colour
+blue	Blue circle	colour
+green	Green circle	colour
+one	Keycap 1	number
+two	Keycap 2	number
+ten	Keycap 10	number
+up	Up arrow	word
+yes	Check mark button	word
+no	No entry	word
+hot	Hot face	feeling
+sad	Frowning face	feeling
+mad	Pouting face	feeling
+cry	Crying face	feeling
+nap	Sleeping face	feeling
+run	Person running	action
+hug	People hugging	action
